@@ -16,7 +16,7 @@
  
  
  
-My name is Oussama Gadria, I'm 22 years old and I'm a second-year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend and backend development. 
+My name is Hafaiedh Hamza, I'm 22 years old and I'm a second-year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend and backend development. 
 
 ## 🙋‍♂️ About Me
 
@@ -110,7 +110,7 @@ My name is Oussama Gadria, I'm 22 years old and I'm a second-year Computer Scien
 ## 📊 My Github Stats
          
   <p align="center">
-    <a href="https://github.com/oussama-gadria">
+    <a href="https://github.com/hamzahafaiedh">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gadria oussama streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-gadria&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
     <br/>
